@@ -1,2 +1,2 @@
-# Sales-customer---Performance-Dashboard
+# Sales-Customer-Performance-Dashboard
 Building the sales and customer performance dashboard using Tableau
